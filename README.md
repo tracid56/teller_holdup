@@ -2,12 +2,16 @@
 A script for robbing the cashiers in your stores.
 
 ### Dependencies
-1.) ESX_Policejob(https://github.com/ESX-Org/esx_policejob)
+[ESX_Policejob](https://github.com/ESX-Org/esx_policejob)
 
 ### Installation
-1.) Clone or Downlaod
-2.) Place anywhere inside your resource folder
-3.) Add ``` start teller_holdup ``` to your server.cfg file
+[Clone or Download]
+[Place anywhere inside your resource folder]
+[Add
+```
+start teller_holdup
+```
+to your server.cfg file]
 
 ### Editing Times & Payouts
 Editing both the timers and payouts is extremely easy and done from the config file. If you wish to change the timer to a set time every time vs a random time between ranges, change:
