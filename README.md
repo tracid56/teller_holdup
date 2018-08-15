@@ -3,6 +3,8 @@ A script for robbing the cashiers in your stores.
 
 ### Dependencies
 - [ESX_Policejob](https://github.com/ESX-Org/esx_policejob)
+- [Safe_Holdup](https://github.com/x0Z3ro0x/safe_holdup)
+- [Vault_Holdup](https://github.com/x0Z3ro0x/vault_holdup)
 
 ### Installation
 - Clone or Download
